@@ -104,7 +104,7 @@ def edge_tracking_hysteresis(img, weak_value):
     return result
 
 # Main Program
-image_path = 'Resources/img001.png'
+image_path = 'img001.png'
 img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
 
 kernel = gaussian_kernel(5, 1.0)
