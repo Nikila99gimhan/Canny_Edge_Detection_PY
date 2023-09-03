@@ -12,6 +12,7 @@ Ensure you have the following libraries installed:
 - OpenCV (cv2)
 - Numpy
 - Matplotlib
+- Os
 
 You can install them using pip:
 
