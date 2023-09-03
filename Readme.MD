@@ -45,7 +45,7 @@ You can find the processed images in the "outputs" directory. Additionally, each
 
 ## Troubleshooting
 
-Ensure that the input image is named `ig01.png` and is located in the root directory of the project.
+Ensure that the input image is named `img001.png` and is located in the root directory of the project.
 
 ## License
 
